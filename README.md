@@ -19,6 +19,7 @@ Saques: Retire dinheiro, com as seguintes regras:
 Limite diário de R$ 500.
 Limite de 3 saques por dia.
 Saldo disponível suficiente.
+
 Extrato: Consulte o histórico de depósitos e saques, juntamente com o saldo atual.
 
 
