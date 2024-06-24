@@ -14,18 +14,14 @@ Lógica de negócio: Implementação das regras de saque, como limites diários 
 
 
 # Funcionalidades ✨
-Depósitos: Adicione dinheiro à sua conta virtual.
-
-Saques: Retire dinheiro, com as seguintes regras:
-
-Limite diário de R$ 500.
-
-Limite de 3 saques por dia.
-
-Saldo disponível suficiente.
-
-Extrato: Consulte o histórico de depósitos e saques, juntamente com o saldo atual.
-
+ **Criação de Clientes:** Cadastre novos clientes com nome, CPF, data de nascimento e endereço.
+* **Criação de Contas:** Crie contas correntes para os clientes, com número de conta e limite de saques.
+* **Depósitos:** Adicione dinheiro à conta virtual.
+* **Saques:** Retire dinheiro, com as seguintes regras:
+    * Limite diário de R$ 500.
+    * Limite de 3 saques por dia.
+    * Saldo disponível suficiente.
+* **Extrato:** Consulte o histórico de depósitos e saques, juntamente com o saldo atual.
 
 
 # Observações 📝
